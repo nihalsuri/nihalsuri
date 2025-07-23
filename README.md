@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihal Suri</h1>
 <h3 align="center">I'm currently pursuing my Master's in Control Systems Engineering at [DEI UNIPD](https://www.dei.unipd.it/en/). I'm passionate about collaborating on projects related to control systems, robotics and computer vision.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihalsuri" alt="nihalsuri" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalsuri&label=Profile%20views&color=0e75b6&style=flat" alt="nihalsuri" /> </p>
 
 - 📫 How to reach me **nihalsuriedu@gmail.com**
 
