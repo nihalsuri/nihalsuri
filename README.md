@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Nihal Suri</h1>
-  <h3>M.Sc. Candidate in Control Systems Engineering</h3>
+  <h3>Masters in Control Systems Engineering</h3>
   <h4><a href="https://www.dei.unipd.it/en/" target="_blank">DEI - University of Padua (UNIPD)</a></h4>
   
   <p>
