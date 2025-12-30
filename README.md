@@ -44,12 +44,17 @@ I am currently pursuing my Master's degree at **DEI UNIPD**, focusing on the syn
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=nihalsuri&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nihalsuri&theme=git_dark&no-frame=true&margin-w=15&row=1&column=7" alt="nihalsuri" />
+  </a>
+  <br /><br />
+
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalsuri&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nihalsuri&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalsuri&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
   </a>
 </div>
 
