@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Nihal Suri</h1>
-  <h3>Masters in Control Systems Engineering</h3>
+  <h3>M.Sc in Control Systems Engineering</h3>
   <h4><a href="https://www.dei.unipd.it/en/" target="_blank">DEI - University of Padua (UNIPD)</a></h4>
   
   <p>
@@ -44,8 +44,13 @@ I am currently pursuing my Master's degree at **DEI UNIPD**, focusing on the syn
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihalsuri&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="nihalsuri" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nihalsuri&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="nihalsuri" height="165" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nihalsuri&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nihalsuri&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
