@@ -1,18 +1,54 @@
-<h1 align="center">Hi 👋, I'm Nihal Suri</h1>
-<h3 align="center">I'm currently pursuing my Master's in Control Systems Engineering at [DEI UNIPD](https://www.dei.unipd.it/en/). I'm passionate about collaborating on projects related to control systems, robotics and computer vision.</h3>
+<div align="center">
+  <h1>Nihal Suri</h1>
+  <h3>M.Sc. Candidate in Control Systems Engineering</h3>
+  <h4><a href="https://www.dei.unipd.it/en/" target="_blank">DEI - University of Padua (UNIPD)</a></h4>
+  
+  <p>
+    <b>Robotics</b> • <b>Computer Vision</b> • <b>Intelligent Control</b>
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalsuri&label=Profile%20views&color=0e75b6&style=flat" alt="nihalsuri" /> </p>
+  <p>
+    <a href="https://www.linkedin.com/in/nihal-suri-8962351a9">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="mailto:nihalsuriedu@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+    </a>
+  </p>
+  
+  <br />
+</div>
 
-- 📫 How to reach me **nihalsuriedu@gmail.com**
+## 🔬 Research Focus & Bio
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nihal-suri-8962351a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nihal-suri-8962351a9/" height="30" width="40" /></a>
-</p>
+I am currently pursuing my Master's degree at **DEI UNIPD**, focusing on the synthesis of classical control theory with modern learning-based approaches. My academic and project work centers on the design and implementation of autonomous systems, with particular emphasis on:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+* **Robotics & Kinematics:** Modeling and control of non-linear systems (Multirotors, Mobile Robots).
+* **Computer Vision:** Real-time perception and state estimation using OpenCV and Deep Learning.
+* **Machine Learning:** Applying Reinforcement Learning (RL) to continuous control problems.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihalsuri&show_icons=true&locale=en&layout=compact" alt="nihalsuri" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihalsuri&show_icons=true&locale=en" alt="nihalsuri" /></p>
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Robotics & Control** | **AI & Computer Vision** | **DevOps & Cloud** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /> |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihalsuri&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="nihalsuri" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nihalsuri&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="nihalsuri" height="165" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=nihalsuri&label=Profile%20Views&color=blue&style=flat-square" alt="nihalsuri" />
+</div>
